@@ -1,10 +1,16 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+# Projeto: instagram-html_css
 
-Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface de login do Instagram! 
+## INFORMAÇÕES
+Aula Front-end de CSS com Flexbox & Responsividade da [Gabriela Pinheiro](https://github.com/SpruceGabriela), na [Digital Innovation One](https://web.digitalinnovation.one) “Recriando a página inicial do Instagram”.
 
-### Os requisitos são:
 
-* [HTML básico](https://www.w3schools.com/html/)
-* [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+### TECNOLOGIAS UTILIZADAS: 
+* CSS3
+* HTML5
 
-## 🚀 Let's code! 🚀
+### SCREENSHOT:
+
+![imagem](img/screenshot-550_2.png)
+
+
+### DISPONÍVEL EM: [https://dagriel.github.io/instagram](https://dagriel.github.io/instagram)
